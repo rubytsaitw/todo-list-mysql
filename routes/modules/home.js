@@ -13,7 +13,8 @@ router.get('/', (req, res) => {
       }
       return Todo.findAll({
         raw: true,
-        nest: true
+        nest: true,
+        where: { UserId: req.user.id }
       })
     })
     .then((todos) => { return res.render('index', { todos: todos }) })
