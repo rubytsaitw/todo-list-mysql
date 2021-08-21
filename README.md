@@ -10,9 +10,9 @@
 
 ## Project Image - 專案畫面
 
-![image](https://github.com/rubytsaitw/todo-list-sequelize/blob/main/public/img/todolist 0820-1.png)
+![image](https://github.com/rubytsaitw/todo-list-sequelize/blob/main/public/img/todolist_0820-1.png)
 
-![image](https://github.com/rubytsaitw/todo-list-sequelize/blob/main/public/img/todolist 0820-2.png)
+![image](https://github.com/rubytsaitw/todo-list-sequelize/blob/main/public/img/todolist_0820-2.png)
 
 ## Environment SetUp - 環境建置
 
